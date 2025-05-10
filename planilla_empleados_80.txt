@@ -1,0 +1,81 @@
+Nombre|Área|SueldoBase|HorasExtra|Bono|Descuento|TotalNeto
+Luis Torres|Recursos Humanos|3616|2|183|152.02|3676.98
+Luis Torres|TI|3656|7|156|161.59|3755.41
+Sofia Chávez|Ventas|3824|13|368|94.03|4292.97
+Miguel Rojas|TI|3189|10|260|174.40|3424.60
+Pedro Huaman|TI|2508|7|397|52.08|2957.92
+Diana Soto|Logística|2503|19|241|250.12|2778.88
+Ana Vargas|Finanzas|3539|13|8|265.29|3476.71
+Lucía Gutiérrez|Recursos Humanos|3863|13|398|291.85|4164.15
+Juan Perez|TI|3561|2|94|60.67|3624.33
+Ana Vargas|TI|3417|10|50|189.18|3427.82
+Sofia Chávez|Recursos Humanos|3592|11|130|42.34|3844.66
+Sofia Chávez|Finanzas|2398|10|161|219.25|2489.75
+Juan Perez|TI|3637|12|436|264.53|3988.47
+Juan Perez|Ventas|2566|9|141|277.37|2564.63
+Pedro Huaman|Recursos Humanos|3028|7|467|294.10|3305.90
+Juan Perez|Logística|2396|5|131|13.46|2588.54
+Ana Vargas|Finanzas|2616|11|164|123.69|2821.31
+Sofia Chávez|Recursos Humanos|3607|4|139|119.25|3686.75
+Ana Vargas|TI|3080|12|262|34.40|3487.60
+Pedro Huaman|Ventas|2112|8|48|199.21|2080.79
+Miguel Rojas|Ventas|2347|2|352|75.48|2653.52
+Pedro Huaman|Finanzas|3074|14|329|75.44|3537.56
+Pedro Huaman|Recursos Humanos|3337|12|199|165.97|3550.03
+Maria Lopez|Finanzas|2136|3|167|290.32|2057.68
+Luis Torres|TI|3844|7|221|106.72|4063.28
+Lucía Gutiérrez|Ventas|2826|16|89|285.37|2869.63
+Diana Soto|Ventas|2057|3|162|134.64|2129.36
+Sofia Chávez|Logística|3204|17|231|191.87|3498.13
+Diana Soto|Recursos Humanos|2166|10|100|252.85|2163.15
+Maria Lopez|Ventas|2109|19|30|66.57|2357.43
+Lucía Gutiérrez|Finanzas|3631|4|218|259.03|3649.97
+Juan Perez|Finanzas|2844|0|245|35.80|3053.20
+Ana Vargas|Ventas|2944|12|71|181.77|3013.23
+Diana Soto|TI|3549|7|408|187.25|3874.75
+Carlos Ramos|Ventas|3724|6|451|7.48|4257.52
+Juan Perez|Recursos Humanos|2416|2|382|219.23|2608.77
+Luis Torres|Recursos Humanos|3675|16|407|109.56|4212.44
+Diana Soto|Finanzas|2459|10|138|68.30|2678.70
+Lucía Gutiérrez|Logística|3705|9|351|92.02|4098.98
+Miguel Rojas|Ventas|2287|0|363|82.70|2567.30
+Diana Soto|Recursos Humanos|3878|0|219|3.84|4093.16
+Pedro Huaman|Logística|3625|19|156|18.33|4047.67
+Diana Soto|TI|2796|13|14|229.65|2775.35
+Diana Soto|Recursos Humanos|3786|19|462|76.49|4456.51
+Luis Torres|Ventas|2081|3|91|217.07|1999.93
+Miguel Rojas|Logística|3787|1|296|101.51|3996.49
+Luis Torres|TI|2590|1|248|257.91|2595.09
+Lucía Gutiérrez|Recursos Humanos|3717|18|116|82.12|4020.88
+Maria Lopez|Recursos Humanos|3598|14|328|227.57|3908.43
+Sofia Chávez|TI|3278|5|419|204.67|3567.33
+Lucía Gutiérrez|Recursos Humanos|2946|10|75|97.34|3073.66
+Luis Torres|Logística|3528|16|306|210.34|3863.66
+Miguel Rojas|Logística|3679|20|31|272.02|3737.98
+Pedro Huaman|Ventas|2041|19|193|183.83|2335.17
+Ana Vargas|Ventas|3628|17|202|174.62|3910.38
+Miguel Rojas|Finanzas|2272|20|155|259.28|2467.72
+Pedro Huaman|Recursos Humanos|3720|1|412|290.57|3856.43
+Miguel Rojas|TI|2327|15|176|189.46|2538.54
+Carlos Ramos|TI|3214|12|212|41.42|3564.58
+Ana Vargas|TI|2936|14|209|36.82|3318.18
+Ana Vargas|TI|3411|8|275|97.75|3708.25
+Juan Perez|Recursos Humanos|3387|14|149|42.77|3703.23
+Maria Lopez|Logística|2204|13|63|30.35|2431.65
+Maria Lopez|TI|2550|1|2|57.59|2509.41
+Maria Lopez|Recursos Humanos|2026|14|259|225.68|2269.32
+Ana Vargas|TI|2085|15|390|53.65|2646.35
+Luis Torres|Finanzas|2734|14|109|78.82|2974.18
+Miguel Rojas|Logística|2028|20|114|67.04|2374.96
+Luis Torres|Finanzas|2996|14|294|137.24|3362.76
+Pedro Huaman|TI|3123|4|32|279.00|2936.00
+Maria Lopez|Recursos Humanos|3284|13|370|186.27|3662.73
+Pedro Huaman|Finanzas|3303|16|184|256.87|3470.13
+Miguel Rojas|Recursos Humanos|2495|4|37|54.41|2537.59
+Lucía Gutiérrez|Ventas|2560|7|448|272.15|2840.85
+Juan Perez|Ventas|3113|13|147|36.64|3418.36
+Carlos Ramos|TI|3414|15|44|235.83|3447.17
+Lucía Gutiérrez|Logística|2225|1|371|194.52|2416.48
+Lucía Gutiérrez|Ventas|2908|2|8|277.50|2668.50
+Sofia Chávez|Recursos Humanos|3690|15|323|7.99|4230.01
+Maria Lopez|Recursos Humanos|3984|17|239|99.12|4378.88
